@@ -1,6 +1,3 @@
-# ATS-Resume-scorer
-Created a web-based AI Resume Intelligence Suite for ATS optimization. Supports PDF resume upload, job description analysis, and automated ATS scoring. Generates detailed feedback to improve resume visibility and job matching.
-
 # 🚀 ATS Resume Intelligence Suite
 
 An AI-powered ATS (Applicant Tracking System) Resume Checker that analyzes resumes against job descriptions and provides an ATS compatibility score, missing keywords, and personalized improvement suggestions. This project helps job seekers optimize their resumes to improve their chances of passing ATS screening systems.
